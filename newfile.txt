@@ -1,2 +1,0 @@
-new file to check git Head
-NEW COMMIT IN MASTER BRANCH.
